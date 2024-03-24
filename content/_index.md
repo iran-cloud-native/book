@@ -4,6 +4,7 @@ weight: 1
 description: ''
 tags:
 - Cloud Native
+- CNCF
 ---
 
 کتاب آزاد **اُرکاها در عمق** این متن نیازمند تکمیل است :)
